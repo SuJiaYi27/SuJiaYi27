@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="42" viewBox="0 0 720 42" role="img" aria-labelledby="title desc">
+  <title id="title">JiaYi Su's current interests</title>
+  <desc id="desc">An animated sequence: Product Experience and UX, AI × Design × Coding, Design Systems, and Curious Experiments.</desc>
+  <style>
+    text { fill: #655b6c; font: 600 18px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .phrase { opacity: 0; animation: show 12s infinite; }
+    .reveal { transform-origin: 0 50%; transform: scaleX(0); animation: reveal 12s steps(28, end) infinite; }
+    .p1 { opacity: 1; animation-delay: 0s; }
+    .p2, .r2 { animation-delay: 3s; }
+    .p3, .r3 { animation-delay: 6s; }
+    .p4, .r4 { animation-delay: 9s; }
+    @keyframes show { 0%, 21% { opacity: 1; } 24%, 100% { opacity: 0; } }
+    @keyframes reveal { 0% { transform: scaleX(0); } 17%, 21% { transform: scaleX(1); } 24%, 100% { transform: scaleX(0); } }
+    @media (prefers-color-scheme: dark) { text { fill: #ded7e5; } }
+  </style>
+  <defs>
+    <mask id="m1"><rect class="reveal r1" width="700" height="42" fill="white"/></mask>
+    <mask id="m2"><rect class="reveal r2" width="700" height="42" fill="white"/></mask>
+    <mask id="m3"><rect class="reveal r3" width="700" height="42" fill="white"/></mask>
+    <mask id="m4"><rect class="reveal r4" width="700" height="42" fill="white"/></mask>
+  </defs>
+  <text class="phrase p1" x="360" y="27" text-anchor="middle" mask="url(#m1)">Product Experience / UX</text>
+  <text class="phrase p2" x="360" y="27" text-anchor="middle" mask="url(#m2)">AI × Design × Coding</text>
+  <text class="phrase p3" x="360" y="27" text-anchor="middle" mask="url(#m3)">Design Systems</text>
+  <text class="phrase p4" x="360" y="27" text-anchor="middle" mask="url(#m4)">Curious Experiments</text>
+</svg>
