@@ -21,12 +21,14 @@
     <td width="52%" valign="top">
       <h3>关于我</h3>
       <p>我喜欢从细节里找线索，也习惯追问一个体验为什么成立。比起一次性的漂亮结果，我更在意它能不能被理解、被维护，并在真实使用中继续生长。</p>
+      <p>我也享受在产品、视觉和技术之间来回走动：把观察整理成判断，再把判断做成能够被真实使用、也值得继续打磨的东西。</p>
     </td>
     <td width="48%" valign="top">
       <h3>我正在关注</h3>
       <p>🧠 <strong>以人为中心的 AI 产品</strong><br/>让 AI 真正解决问题，同时保持体验清晰、值得信任，也让人拥有控制权。</p>
       <p>🧩 <strong>从真实界面理解设计系统</strong><br/>从可观察的界面中分析、整理和重建设计资产。</p>
       <p>⚡ <strong>AI 辅助构建</strong><br/>缩短从产品思考、交互设计到可运行体验的距离。</p>
+      <br/>
     </td>
   </tr>
 </table>
@@ -47,9 +49,9 @@ https://github.com/user-attachments/assets/ac6fd797-7a7c-49e9-b28d-7ed16db89fe1
 
 <table>
   <tr>
-    <td width="33%" valign="top"><h3>🔍 Observe</h3><p>从真实用户、真实界面和可观察的证据开始。</p></td>
-    <td width="34%" valign="top"><h3>🧩 Shape</h3><p>把零散发现整理为清晰的产品结构和交互决策。</p></td>
-    <td width="33%" valign="top"><h3>🛠️ Build &amp; Validate</h3><p>做出可以运行的体验，再放进真实环境里验证。</p></td>
+    <td width="33%" valign="top"><h3>🔍 Observe</h3><p>从真实用户、真实界面和可观察的证据开始。</p><br/></td>
+    <td width="34%" valign="top"><h3>🧩 Shape</h3><p>把零散发现整理为清晰的产品结构和交互决策。</p><br/></td>
+    <td width="33%" valign="top"><h3>🛠️ Build &amp; Validate</h3><p>做出可以运行的体验，再放进真实环境里验证。</p><br/></td>
   </tr>
 </table>
 
@@ -62,11 +64,13 @@ https://github.com/user-attachments/assets/ac6fd797-7a7c-49e9-b28d-7ed16db89fe1
     <td width="50%" valign="top">
       <h3>🎧 音乐与我</h3>
       <p>音乐陪伴了我五年，也让我对节奏、情绪和表达更敏感。对我来说，它不只是创作经历，也是理解生活和表达感受的另一种方式。</p>
-      <p><code>🎵 180 万+ 播放</code>&nbsp; <code>💗 10 万+ 收藏</code>&nbsp; <code>💬 3000+ 评论</code></p>
+      <p><code>🎵180万+播放</code>&nbsp; <code>💗10万+收藏</code>&nbsp; <code>💬3000+评论</code></p>
+      <br/><br/>
     </td>
     <td width="50%" valign="top">
       <h3>📹 创作、研究与分享</h3>
       <p>我也在运营一个 AI 主题的自媒体账号，记录工具体验、想法和动手实验。遇到喜欢的网站动效时，我会从 Motion Sites 收录的案例入手，拆解它的运动逻辑，再按自己的理解重新实现。</p>
+      <br/><br/>
     </td>
   </tr>
 </table>
