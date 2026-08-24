@@ -2,8 +2,6 @@
   <strong>简体中文</strong> · <a href="./README_EN.md">English</a>
 </div>
 
-<p align="center"><img src="./assets/hero-decoration.svg" width="100%" alt="柔和的抽象渐变装饰" /></p>
-
 <h1 align="center">Hi 👋, I'm JiaYi Su!</h1>
 
 <p align="center">产品体验 / UX 设计师。喜欢把模糊的问题整理清楚，再一步步做出来，放进真实场景里验证。</p>
