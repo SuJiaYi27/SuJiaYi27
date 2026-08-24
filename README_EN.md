@@ -2,8 +2,6 @@
   <strong>English</strong> · <a href="./README.md">简体中文</a>
 </div>
 
-<p align="center"><img src="./assets/hero-decoration.svg" width="100%" alt="Soft abstract pastel decoration" /></p>
-
 <h1 align="center">Hi 👋, I'm JiaYi Su!</h1>
 
 <p align="center">A Product Experience / UX designer who enjoys turning fuzzy ideas into clear, testable experiences.</p>
