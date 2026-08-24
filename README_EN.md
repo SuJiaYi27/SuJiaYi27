@@ -21,12 +21,14 @@
     <td width="52%" valign="top">
       <h3>About Me</h3>
       <p>I like finding clues in small details and asking why an experience works. More than a polished one-off result, I care about whether it can be understood, maintained, and continue to grow through real use.</p>
+      <p>I also enjoy moving between product, visual design, and technology: turning observations into decisions, then shaping those decisions into things people can actually use and keep improving.</p>
     </td>
     <td width="48%" valign="top">
       <h3>What I'm Exploring</h3>
       <p>🧠 <strong>Human-centered AI products</strong><br/>Useful, clear, and trustworthy experiences that keep people in control.</p>
       <p>🧩 <strong>Design systems from real interfaces</strong><br/>Analyzing and rebuilding maintainable assets from observable UI evidence.</p>
       <p>⚡ <strong>AI-assisted building</strong><br/>Shortening the path from product thinking to working, testable experiences.</p>
+      <br/>
     </td>
   </tr>
 </table>
@@ -47,9 +49,9 @@ Analyze rendered web UIs and rebuild observable design-system assets as editable
 
 <table>
   <tr>
-    <td width="33%" valign="top"><h3>🔍 Observe</h3><p>Start with real users, real interfaces, and observable evidence.</p></td>
-    <td width="34%" valign="top"><h3>🧩 Shape</h3><p>Turn scattered findings into clear product structures and interaction decisions.</p></td>
-    <td width="33%" valign="top"><h3>🛠️ Build &amp; Validate</h3><p>Create working experiences and test them in real environments.</p></td>
+    <td width="33%" valign="top"><h3>🔍 Observe</h3><p>Start with real users, real interfaces, and observable evidence.</p><br/></td>
+    <td width="34%" valign="top"><h3>🧩 Shape</h3><p>Turn scattered findings into clear product structures and interaction decisions.</p><br/></td>
+    <td width="33%" valign="top"><h3>🛠️ Build &amp; Validate</h3><p>Create working experiences and test them in real environments.</p><br/></td>
   </tr>
 </table>
 
@@ -62,11 +64,13 @@ I'm always curious about how ideas can be seen, heard, felt, and shared — not 
     <td width="50%" valign="top">
       <h3>🎧 Music in My Life</h3>
       <p>Music has been part of my life for five years, shaping how I understand rhythm, emotion, and expression. It is both a creative practice and another way I make sense of life.</p>
-      <p><code>🎵 1.8M+ plays</code>&nbsp; <code>💗 100K+ saves</code>&nbsp; <code>💬 3K+ comments</code></p>
+      <p><code>🎵1.8M+ plays</code>&nbsp; <code>💗100K+ saves</code>&nbsp; <code>💬3K+ comments</code></p>
+      <br/><br/>
     </td>
     <td width="50%" valign="top">
       <h3>📹 Creating, Studying &amp; Sharing</h3>
       <p>I run an AI-focused content channel where I share tools, ideas, and hands-on experiments. I also study homepage motion references discovered through Motion Sites, break down the logic behind them, and recreate the behavior in my own way.</p>
+      <br/><br/>
     </td>
   </tr>
 </table>
