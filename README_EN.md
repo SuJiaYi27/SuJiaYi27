@@ -18,16 +18,16 @@
 
 <table>
   <tr>
-    <td width="52%" height="379" valign="top">
+    <td width="52%" valign="top">
       <h3>About Me</h3>
       <p>I tend to notice small details. Whether an interface has the right rhythm, whether the information is clear, or where someone might hesitate while using it, I usually cannot help taking a closer look.</p>
-      <p>Five years of making music and my ongoing work in content creation have made me more sensitive to rhythm, emotion, and expression. That sensitivity naturally finds its way into my design work: I want what I make to feel not only complete, but genuinely easy to understand and comfortable to use.</p>
+      <p>Five years of making music and my ongoing work in content creation have made me more sensitive to rhythm, emotion, and expression. That sensitivity naturally finds its way into my design work: I want what I make to feel not only complete, but genuinely easy to understand and comfortable to use.<br/><span aria-hidden="true">&nbsp;</span></p>
     </td>
     <td width="48%" valign="top">
       <h3>What I'm Exploring</h3>
       <p>🧠 <strong>Human-centered AI products</strong><br/>Useful, clear, and trustworthy experiences that keep people in control.</p>
       <p>🧩 <strong>Design systems from real interfaces</strong><br/>Analyzing and rebuilding maintainable assets from observable UI evidence.</p>
-      <p>⚡ <strong>AI-assisted building</strong><br/>Shortening the path from product thinking to working, testable experiences.</p>
+      <p>⚡ <strong>AI-assisted building</strong><br/>Shortening the path from product thinking to working, testable experiences.<br/><span aria-hidden="true">&nbsp;</span></p>
     </td>
   </tr>
 </table>
@@ -48,9 +48,9 @@ Analyze rendered web UIs and rebuild observable design-system assets as editable
 
 <table>
   <tr>
-    <td width="33%" valign="top"><h3>🔍 Observe</h3><p>Start with real users, real interfaces, and observable evidence.</p></td>
-    <td width="34%" valign="top"><h3>🧩 Shape</h3><p>Turn scattered findings into clear product structures and interaction decisions.</p></td>
-    <td width="33%" height="166" valign="top"><h3>🛠️ Build &amp; Validate</h3><p>Create working experiences and test them in real environments.</p></td>
+    <td width="33%" valign="top"><h3>🔍 Observe</h3><p>Start with real users, real interfaces, and observable evidence.<br/><span aria-hidden="true">&nbsp;</span></p></td>
+    <td width="34%" valign="top"><h3>🧩 Shape</h3><p>Turn scattered findings into clear product structures and interaction decisions.<br/><span aria-hidden="true">&nbsp;</span></p></td>
+    <td width="33%" valign="top"><h3>🛠️ Build &amp; Validate</h3><p>Create working experiences and test them in real environments.<br/><span aria-hidden="true">&nbsp;</span></p></td>
   </tr>
 </table>
 
@@ -60,14 +60,14 @@ I'm always curious about how ideas can be seen, heard, felt, and shared — not 
 
 <table>
   <tr>
-    <td width="50%" height="251" valign="top">
+    <td width="50%" valign="top">
       <h3>🎧 Music in My Life</h3>
       <p>Music has been part of my life for five years, shaping how I understand rhythm, emotion, and expression. It is both a creative practice and another way I make sense of life.</p>
-      <p><code>🎵1.8M+ plays</code>&nbsp; <code>💗100K+ saves</code>&nbsp; <code>💬3K+ comments</code></p>
+      <p><code>🎵1.8M+ plays</code>&nbsp; <code>💗100K+ saves</code>&nbsp; <code>💬3K+ comments</code><br/><span aria-hidden="true">&nbsp;</span></p>
     </td>
     <td width="50%" valign="top">
       <h3>📹 Creating, Studying &amp; Sharing</h3>
-      <p>I run an AI-focused content channel where I share tools, ideas, and hands-on experiments. I also study homepage motion references discovered through Motion Sites, break down the logic behind them, and recreate the behavior in my own way.</p>
+      <p>I run an AI-focused content channel where I share tools, ideas, and hands-on experiments. I also study homepage motion references discovered through Motion Sites, break down the logic behind them, and recreate the behavior in my own way.<br/><span aria-hidden="true">&nbsp;</span></p>
     </td>
   </tr>
 </table>
